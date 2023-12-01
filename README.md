@@ -15,6 +15,6 @@ Este jogo foi desenvolvido no desafio "Construindo um Simulador de Piano com Jav
 - JavaScript para a lógica de programação e interatividade.
 
 ### Funcionalidades Incríveis
-Aumentar e dimuir volume
-Habilitar a visualização letras do teclado
-Simulador de Piano
+- Aumentar e dimuir volume
+- Habilitar a visualização letras do teclado
+- Simulador de Piano
